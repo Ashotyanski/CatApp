@@ -42,9 +42,10 @@ body {
     padding-top: 50px;
 }
 #splash{
+    margin:20px;
 }
 #splash img{
-    width: 25%;
+    width: 15%;
 }
 #progress_dialog{
     padding: 20px;
@@ -104,6 +105,14 @@ body {
     border-radius: 10px;
     color: #83888c;
     font-size: 15px;
+}
+
+#win_buttons{
+    text-align: center;
+}
+#win_buttons img{
+    padding: 10px;
+    width: 30%;
 }
 
 
